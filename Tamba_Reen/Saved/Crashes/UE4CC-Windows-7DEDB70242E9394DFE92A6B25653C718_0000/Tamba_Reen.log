@@ -1,0 +1,1120 @@
+﻿Log file open, 05/25/20 13:32:55
+LogInit: Display: Running engine for game: Tamba_Reen
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.094472
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13144385
+LogInit: Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May  2 2020 02:12:11
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.25-03.32.55:946][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.25-03.32.55:947][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.25-03.32.55:947][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.25-03.32.55:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:947][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:950][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-03.32.55:950][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.05.25-03.32.55:951][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-03.32.55:951][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.25-03.32.55:951][  0]LogHAL: Display: Platform has ~ 16 GB [16983638016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.25-03.32.55:951][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:951][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.25-03.32.55:951][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.25-03.32.55:952][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.05.25-03.32.55:953][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/game_jam20/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-03.32.55:953][  0]LogInit: Computer: ELVIS-LAPTOP
+[2020.05.25-03.32.55:953][  0]LogInit: User: elvis
+[2020.05.25-03.32.55:953][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.25-03.32.55:953][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.25-03.32.55:953][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.05.25-03.32.55:953][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.25-03.32.55:953][  0]LogMemory: Process Physical Memory: 114.36 MB used, 114.36 MB peak
+[2020.05.25-03.32.55:953][  0]LogMemory: Process Virtual Memory: 97.57 MB used, 97.57 MB peak
+[2020.05.25-03.32.55:953][  0]LogMemory: Physical Memory: 8758.29 MB used,  7438.57 MB free, 16196.86 MB total
+[2020.05.25-03.32.55:953][  0]LogMemory: Virtual Memory: 5165.85 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.05.25-03.32.55:998][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.25-03.32.56:037][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.05.25-03.32.56:038][  0]LogInit: Using OS detected language (en-US).
+[2020.05.25-03.32.56:038][  0]LogInit: Using OS detected locale (en-AU).
+[2020.05.25-03.32.56:044][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.25-03.32.56:202][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.25-03.32.56:241][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.25-03.32.56:241][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.25-03.32.56:409][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.25-03.32.56:409][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.25-03.32.56:409][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.25-03.32.56:409][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.25-03.32.56:476][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.05.25-03.32.56:476][  0]LogD3D11RHI:       5991/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.25-03.32.56:497][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.25-03.32.56:497][  0]LogD3D11RHI:       128/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.25-03.32.56:499][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.25-03.32.56:499][  0]LogD3D11RHI:       0/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.25-03.32.56:499][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.25-03.32.56:540][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.25-03.32.56:540][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.25-03.32.56:540][  0]LogWindows: EnumDisplayDevices:
+[2020.05.25-03.32.56:540][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.25-03.32.56:540][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.25-03.32.56:541][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.25-03.32.56:541][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2020.05.25-03.32.56:541][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.25-03.32.56:541][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.25-03.32.56:542][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.25-03.32.56:542][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.25-03.32.56:542][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.05.25-03.32.56:542][  0]LogD3D11RHI:   Driver Version: 442.23 (internal:26.21.14.4223, unified:442.23)
+[2020.05.25-03.32.56:542][  0]LogD3D11RHI:      Driver Date: 1-31-2020
+[2020.05.25-03.32.56:542][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.05.25-03.32.56:585][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.25-03.32.56:586][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.05.25-03.32.56:586][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.25-03.32.56:586][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.05.25-03.32.56:608][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.25-03.32.56:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.25-03.32.56:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.25-03.32.56:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.25-03.32.56:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.25-03.32.56:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.05.25-03.32.56:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.25-03.32.56:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.25-03.32.56:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.25-03.32.56:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.25-03.32.56:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.25-03.32.57:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.25-03.32.57:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.25-03.32.57:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.25-03.32.57:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.25-03.32.57:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.25-03.32.57:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.25-03.32.57:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.25-03.32.57:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.25-03.32.57:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.25-03.32.57:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.25-03.32.57:095][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.25-03.32.57:156][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (E:/game_jam20/GameJam20/Tamba_Reen/Intermediate/Shaders/WorkingDirectory/23292/).
+[2020.05.25-03.32.57:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elvis/AppData/Local/Temp/UnrealShaderWorkingDir/D51BC8BF42EC17238908178466D5B7C5/'.
+[2020.05.25-03.32.57:157][  0]LogXGEController: Cleaning working directory: C:/Users/elvis/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.25-03.32.57:157][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.25-03.32.57:157][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.25-03.32.57:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.25-03.32.57:903][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.25-03.32.57:975][  0]LogDerivedDataCache: Loaded boot cache 0.07s 104MB C:/Users/elvis/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.05.25-03.32.57:975][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elvis/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.05.25-03.32.57:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/game_jam20/GameJam20/Tamba_Reen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.25-03.32.57:975][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.25-03.32.57:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/game_jam20/GameJam20/Tamba_Reen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-03.32.57:975][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.25-03.32.57:984][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.25-03.32.57:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-03.32.57:984][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.25-03.32.57:988][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elvis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.25-03.32.57:988][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.25-03.32.57:988][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.25-03.32.58:044][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.25-03.32.58:044][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.25-03.32.58:067][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.05.25-03.32.58:289][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-03.32.58:493][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.25-03.32.58:493][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.25-03.32.58:493][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.25-03.32.58:493][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.25-03.32.58:493][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.25-03.32.58:507][  0]LogNetVersion: Tamba_Reen 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2845370172)
+[2020.05.25-03.32.58:886][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001DF78D26340), frame # 0
+[2020.05.25-03.32.58:886][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF78CB6D40), frame # 0
+[2020.05.25-03.32.58:888][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF78D28A00), frame # 0
+[2020.05.25-03.32.59:203][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.310731 seconds
+[2020.05.25-03.32.59:209][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.05.25-03.32.59:209][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.05.25-03.32.59:209][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.25-03.32.59:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.25-03.32.59:541][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.25-03.32.59:657][  0]SourceControl: Source control is disabled
+[2020.05.25-03.32.59:657][  0]SourceControl: Source control is disabled
+[2020.05.25-03.32.59:660][  0]SourceControl: Source control is disabled
+[2020.05.25-03.32.59:663][  0]SourceControl: Source control is disabled
+[2020.05.25-03.32.59:670][  0]SourceControl: Source control is disabled
+[2020.05.25-03.32.59:903][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.25-03.32.59:921][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.25-03.32.59:921][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.25-03.32.59:967][  0]LogOcInput: OculusInput pre-init called
+[2020.05.25-03.32.59:977][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.25-03.32.59:977][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.25-03.33.00:032][  0]LogEngine: Initializing Engine...
+[2020.05.25-03.33.00:033][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.25-03.33.00:033][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.05.25-03.33.00:034][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.25-03.33.00:158][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.25-03.33.00:166][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.25-03.33.00:166][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF0042FC00), frame # 0
+[2020.05.25-03.33.00:166][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF0043BB00), frame # 0
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.25-03.33.00:188][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.25-03.33.00:188][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.25-03.33.00:188][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.25-03.33.00:285][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.25-03.33.00:285][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.25-03.33.00:318][  0]LogAudioMixer: Display: Using Audio Device Speakers (4- Plantronics GameCom 780)
+[2020.05.25-03.33.00:322][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.25-03.33.00:324][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.25-03.33.00:324][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.25-03.33.00:325][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.25-03.33.00:326][  0]LogInit: FAudioDevice initialized.
+[2020.05.25-03.33.00:326][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.25-03.33.00:395][  0]LogDerivedDataCache: Saved boot cache 0.07s 104MB C:/Users/elvis/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.05.25-03.33.00:398][  0]LogInit: Texture streaming: Enabled
+[2020.05.25-03.33.00:415][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.25-03.33.00:415][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.25-03.33.00:422][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.25-03.33.00:662][  0]LogInit: Transaction tracking system initialized
+[2020.05.25-03.33.00:681][  0]BlueprintLog: New page: Editor Load
+[2020.05.25-03.33.00:752][  0]LocalizationService: Localization service is disabled
+[2020.05.25-03.33.00:918][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.25-03.33.00:918][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.25-03.33.00:925][  0]LogFileCache: Scanning file cache for directory 'E:/game_jam20/GameJam20/Tamba_Reen/Content/' took 0.01s
+[2020.05.25-03.33.01:208][  0]SourceControl: Source control is disabled
+[2020.05.25-03.33.01:208][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.619
+[2020.05.25-03.33.01:208][  0]Cmd: MAP LOAD FILE="E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-03.33.01:208][  0]LightingResults: New page: Lighting Build
+[2020.05.25-03.33.01:209][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-03.33.01:209][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-03.33.01:209][  0]MapCheck: New page: Map Check
+[2020.05.25-03.33.01:209][  0]LightingResults: New page: Lighting Build
+[2020.05.25-03.33.01:218][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF0042FC00), frame # 0
+[2020.05.25-03.33.01:218][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF0043BB00), frame # 0
+[2020.05.25-03.33.01:219][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.25-03.33.01:320][  0]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:320][  0]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:327][  0]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:328][  0]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:329][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:329][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:330][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:330][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:378][  0]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:378][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.05.25-03.33.01:379][  0]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.05.25-03.33.01:379][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.05.25-03.33.01:455][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.25-03.33.01:455][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF09845600), frame # 0
+[2020.05.25-03.33.01:455][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF098A1D00), frame # 0
+[2020.05.25-03.33.01:479][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-03.33.01:492][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.25-03.33.01:492][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-03.33.01:493][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2020.05.25-03.33.01:493][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.285
+[2020.05.25-03.33.01:495][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.906
+[2020.05.25-03.33.01:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-03.33.01:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-03.33.01:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-03.33.01:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-03.33.01:639][  0]LogCollectionManager: Loaded 0 collections in 0.000923 seconds
+[2020.05.25-03.33.01:903][  0]LogFileCache: Scanning file cache for directory 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Collections/' took 0.00s
+[2020.05.25-03.33.01:903][  0]LogFileCache: Scanning file cache for directory 'E:/game_jam20/GameJam20/Tamba_Reen/Content/Developers/elvis/Collections/' took 0.00s
+[2020.05.25-03.33.01:903][  0]LogFileCache: Scanning file cache for directory 'E:/game_jam20/GameJam20/Tamba_Reen/Content/Collections/' took 0.00s
+[2020.05.25-03.33.01:903][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3426 classes and 820 folders.
+[2020.05.25-03.33.01:906][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-03.33.01:977][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-03.33.01:978][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.05.25-03.33.02:027][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.25-03.33.02:029][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.25-03.33.02:034][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.25-03.33.02:096][  0]LogRenderer: Reallocating scene render targets to support 1020x516 Format 10 NumSamples 1 (Frame:1).
+[2020.05.25-03.33.02:256][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-03.33.02:256][  0]LogLoad: (Engine Initialization) Total time: 8.67 seconds
+[2020.05.25-03.33.02:256][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.25-03.33.02:302][  0]LogAssetRegistry: Asset discovery search completed in 4.2360 seconds
+[2020.05.25-03.33.02:305][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.05.25-03.33.02:306][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.25-03.33.02:400][  0]LogSlate: Took 0.001064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.25-03.33.02:412][  0]LogSlate: Took 0.006119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.25-03.34.47:689][246]LogRenderer: Reallocating scene render targets to support 1704x956 Format 10 NumSamples 1 (Frame:3091).
+[2020.05.25-03.35.16:943][778]LogSlate: Window 'New Level' being destroyed
+[2020.05.25-03.35.16:949][778]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-03.35.16:952][778]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.25-03.35.16:969][778]LightingResults: New page: Lighting Build
+[2020.05.25-03.35.16:969][778]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.05.25-03.35.16:972][778]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-03.35.16:972][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-03.35.16:972][778]MapCheck: New page: Map Check
+[2020.05.25-03.35.16:972][778]LightingResults: New page: Lighting Build
+[2020.05.25-03.35.16:982][778]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF09845600), frame # 4778
+[2020.05.25-03.35.16:982][778]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF098A1D00), frame # 4778
+[2020.05.25-03.35.16:982][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.25-03.35.16:990][778]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.25-03.35.16:990][778]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF08C9CE00), frame # 4778
+[2020.05.25-03.35.16:990][778]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF0A6511C0), frame # 4778
+[2020.05.25-03.35.16:992][778]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-03.35.17:002][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.05.25-03.35.17:013][778]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-03.35.17:014][778]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.532ms to complete.
+[2020.05.25-03.35.17:014][778]LogFileHelpers: Loading map 'Template_Default' took 0.066
+[2020.05.25-03.35.32:149][672]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:149][672]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:151][672]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:151][672]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:153][672]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:153][672]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:153][672]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:154][672]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:157][672]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:157][672]LoadErrors: Failed to load /Game/ThirdPersonBP/Scenes/Forest_BuiltData.Forest_BuiltData Referenced by PersistentLevel
+[2020.05.25-03.35.32:157][672]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.32:169][672]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-03.35.32:181][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.05.25-03.35.32:181][672]Cmd: MAP LOAD FILE="E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-03.35.32:182][672]LightingResults: New page: Lighting Build
+[2020.05.25-03.35.32:182][672]LoadErrors: New page: Loading map: Forest.umap
+[2020.05.25-03.35.32:182][672]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-03.35.32:182][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-03.35.32:182][672]MapCheck: New page: Map Check
+[2020.05.25-03.35.32:182][672]LightingResults: New page: Lighting Build
+[2020.05.25-03.35.32:192][672]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF0A6511C0), frame # 5672
+[2020.05.25-03.35.32:192][672]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF08C9CE00), frame # 5672
+[2020.05.25-03.35.32:193][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.05.25-03.35.32:196][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-03.35.32:197][672]LogAIModule: Creating AISystem for world Forest
+[2020.05.25-03.35.32:197][672]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF08C9CE00), frame # 5672
+[2020.05.25-03.35.32:197][672]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF7FD4F240), frame # 5672
+[2020.05.25-03.35.32:207][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.25-03.35.32:248][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-03.35.32:248][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2020.05.25-03.35.32:248][672]LogFileHelpers: Loading map 'Forest' took 0.067
+[2020.05.25-03.35.35:883][885]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-03.35.35:892][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.05.25-03.35.35:892][885]Cmd: MAP LOAD FILE="E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-03.35.35:893][885]LightingResults: New page: Lighting Build
+[2020.05.25-03.35.35:893][885]LoadErrors: New page: Loading map: Forest.umap
+[2020.05.25-03.35.35:894][885]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-03.35.35:894][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-03.35.35:894][885]MapCheck: New page: Map Check
+[2020.05.25-03.35.35:894][885]LightingResults: New page: Lighting Build
+[2020.05.25-03.35.35:903][885]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF7FD4F240), frame # 5885
+[2020.05.25-03.35.35:903][885]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF08C9CE00), frame # 5885
+[2020.05.25-03.35.35:904][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.05.25-03.35.35:907][885]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:907][885]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:909][885]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:909][885]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:910][885]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:911][885]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:911][885]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:911][885]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:913][885]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:913][885]LoadErrors: Failed to load /Game/ThirdPersonBP/Scenes/Forest_BuiltData.Forest_BuiltData Referenced by PersistentLevel
+[2020.05.25-03.35.35:914][885]LogLinker: Warning: While loading 'E:/game_jam20/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap' failed to load '/Game/ThirdPersonBP/Scenes/Forest_BuiltData': Can't find file.
+[2020.05.25-03.35.35:920][885]LogAIModule: Creating AISystem for world Forest
+[2020.05.25-03.35.35:920][885]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF1B660C00), frame # 5885
+[2020.05.25-03.35.35:920][885]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF1B8DCE00), frame # 5885
+[2020.05.25-03.35.35:923][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-03.35.35:937][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.05.25-03.35.35:966][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-03.35.35:966][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
+[2020.05.25-03.35.35:966][885]LogFileHelpers: Loading map 'Forest' took 0.074
+[2020.05.25-03.56.38:190][410]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-03.56.54:632][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.25-03.56.56:589][126]Cmd: DELETE
+[2020.05.25-03.56.56:589][126]Cmd: ACTOR DELETE
+[2020.05.25-03.56.56:605][126]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.56.56:614][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.05.25-03.56.56:616][126]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.05.25-03.56.57:740][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.05.25-03.56.58:019][208]Cmd: DELETE
+[2020.05.25-03.56.58:019][208]Cmd: ACTOR DELETE
+[2020.05.25-03.56.58:020][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.56.58:030][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.05.25-03.56.58:031][208]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.56.59:407][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.05.25-03.56.59:551][297]Cmd: DELETE
+[2020.05.25-03.56.59:551][297]Cmd: ACTOR DELETE
+[2020.05.25-03.56.59:552][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.56.59:561][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.05.25-03.56.59:562][297]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.00:568][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.05.25-03.57.00:702][362]Cmd: DELETE
+[2020.05.25-03.57.00:702][362]Cmd: ACTOR DELETE
+[2020.05.25-03.57.00:704][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.00:714][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.05.25-03.57.00:715][362]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.57.02:289][454]Cmd: DELETE
+[2020.05.25-03.57.02:289][454]Cmd: ACTOR DELETE
+[2020.05.25-03.57.02:290][454]LogEditorActor: Deleted Actor: Brush
+[2020.05.25-03.57.02:300][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.05.25-03.57.02:306][454]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.05.25-03.57.03:992][553]Cmd: DELETE
+[2020.05.25-03.57.03:992][553]Cmd: ACTOR DELETE
+[2020.05.25-03.57.03:993][553]LogEditorActor: Deleted Actor: Brush
+[2020.05.25-03.57.04:002][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.05.25-03.57.04:004][553]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.57.05:720][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.05.25-03.57.06:238][684]Cmd: DELETE
+[2020.05.25-03.57.06:238][684]Cmd: ACTOR DELETE
+[2020.05.25-03.57.06:239][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.06:249][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.05.25-03.57.06:249][684]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.07:091][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.05.25-03.57.07:201][739]Cmd: DELETE
+[2020.05.25-03.57.07:201][739]Cmd: ACTOR DELETE
+[2020.05.25-03.57.07:202][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.07:211][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.05.25-03.57.07:213][739]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.08:855][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.05.25-03.57.08:986][843]Cmd: DELETE
+[2020.05.25-03.57.08:986][843]Cmd: ACTOR DELETE
+[2020.05.25-03.57.08:987][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.08:997][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.05.25-03.57.08:997][843]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.57.10:238][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.05.25-03.57.10:364][923]Cmd: DELETE
+[2020.05.25-03.57.10:364][923]Cmd: ACTOR DELETE
+[2020.05.25-03.57.10:365][923]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.10:374][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.05.25-03.57.10:375][923]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.11:485][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.05.25-03.57.11:645][997]Cmd: DELETE
+[2020.05.25-03.57.11:645][997]Cmd: ACTOR DELETE
+[2020.05.25-03.57.11:646][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.11:656][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.05.25-03.57.11:657][997]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.57.12:764][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.05.25-03.57.13:345][ 96]Cmd: DELETE
+[2020.05.25-03.57.13:346][ 96]Cmd: ACTOR DELETE
+[2020.05.25-03.57.13:347][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.13:355][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.05.25-03.57.13:356][ 96]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.14:110][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.05.25-03.57.14:269][148]Cmd: DELETE
+[2020.05.25-03.57.14:269][148]Cmd: ACTOR DELETE
+[2020.05.25-03.57.14:270][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.25-03.57.14:280][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.05.25-03.57.14:281][148]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.57.17:272][328]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-03.57.18:160][379]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.05.25-03.57.21:727][591]Cmd: DELETE
+[2020.05.25-03.57.21:727][591]Cmd: ACTOR DELETE
+[2020.05.25-03.57.21:728][591]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2020.05.25-03.57.21:737][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.05.25-03.57.21:738][591]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.22:898][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-03.57.23:550][698]Cmd: DELETE
+[2020.05.25-03.57.23:550][698]Cmd: ACTOR DELETE
+[2020.05.25-03.57.23:551][698]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.05.25-03.57.23:560][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.05.25-03.57.23:561][698]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.05.25-03.57.25:619][822]Cmd: TRANSACTION UNDO
+[2020.05.25-03.57.25:619][822]LogEditorTransaction: Undo Delete Actors
+[2020.05.25-03.57.26:672][878]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-03.57.27:660][936]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.05.25-03.57.29:011][ 12]Cmd: DELETE
+[2020.05.25-03.57.29:011][ 12]Cmd: ACTOR DELETE
+[2020.05.25-03.57.29:013][ 12]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.05.25-03.57.29:022][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.05.25-03.57.29:023][ 12]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-03.58.08:729][993]LogSlate: Window 'Save Level As' being destroyed
+[2020.05.25-03.58.08:785][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.25-03.58.13:646][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Forest_elvis" FILE="E:/game_jam20/GameJam20/Tamba_Reen/Content/Maps/Forest_elvis.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.25-03.58.13:671][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.25-03.58.13:970][993]LogSavePackage: Moving 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Forest_elvis8EAD849E465A3B642A18ED9CD656BEC9.tmp' to 'E:/game_jam20/GameJam20/Tamba_Reen/Content/Maps/Forest_elvis.umap'
+[2020.05.25-03.58.14:003][993]LogFileHelpers: Saving map 'Forest_elvis' took 5.270
+[2020.05.25-03.58.14:004][993]Cmd: MAP LOAD FILE="E:/game_jam20/GameJam20/Tamba_Reen/Content/Maps/Forest_elvis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-03.58.14:019][993]LightingResults: New page: Lighting Build
+[2020.05.25-03.58.14:019][993]LoadErrors: New page: Loading map: Forest_elvis.umap
+[2020.05.25-03.58.14:020][993]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-03.58.14:020][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-03.58.14:020][993]MapCheck: New page: Map Check
+[2020.05.25-03.58.14:020][993]LightingResults: New page: Lighting Build
+[2020.05.25-03.58.14:030][993]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF1B8DCE00), frame # 17993
+[2020.05.25-03.58.14:030][993]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF1B660C00), frame # 17993
+[2020.05.25-03.58.14:031][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.05.25-03.58.14:035][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-03.58.14:035][993]LogAIModule: Creating AISystem for world Forest_elvis
+[2020.05.25-03.58.14:035][993]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF296DB600), frame # 17993
+[2020.05.25-03.58.14:035][993]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF08032840), frame # 17993
+[2020.05.25-03.58.14:046][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.05.25-03.58.14:194][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-03.58.14:194][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.231ms to complete.
+[2020.05.25-03.58.14:194][993]LogFileHelpers: Loading map 'Forest_elvis' took 0.190
+[2020.05.25-03.58.14:196][993]AssetCheck: New page: Asset Save: Forest_elvis
+[2020.05.25-03.58.14:196][993]LogContentValidation: Display: Validating World /Game/Maps/Forest_elvis.Forest_elvis
+[2020.05.25-03.58.28:458][835]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2020.05.25-03.58.32:425][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-03.58.38:708][437]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.05.25-03.58.38:774][437]LogSlate: Took 0.001264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.25-04.00.21:264][ 86]LogDirectoryWatcher: A directory notification failed for 'E:/game_jam20/GameJam20/Tamba_Reen/Content/Developers/elvis/Collections/' because it could not be accessed. Aborting watch request...
+[2020.05.25-04.00.21:405][ 87]LogDirectoryWatcher: A directory notification failed for 'E:/game_jam20/GameJam20/Tamba_Reen/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.05.25-04.00.21:440][ 89]LogDirectoryWatcher: A directory notification failed for 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.05.25-04.00.32:029][194]LogTexture: Display: Building textures: gl1_ground_IV_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.00.32:029][194]LogTexture: Display: Building textures: gl1_ground_IV_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.00.32:029][194]LogTexture: Display: Building textures: gl1_ground_IV_normal (BC5, 4096X4096)
+[2020.05.25-04.00.32:048][194]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 33
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.05.25-04.00.32:134][195]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_III_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_V_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_VI_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_VII_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_VII_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_VI_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_V_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_III_normal (BC5, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_VI_normal (BC5, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_V_normal (BC5, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_II_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:368][646]LogTexture: Display: Building textures: gl1_ground_II_normal (BC5, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogTexture: Display: Building textures: gl1_ground_III_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogTexture: Display: Building textures: gl1_ground_II_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogTexture: Display: Building textures: gl1_ground_I_ao (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogTexture: Display: Building textures: gl1_ground_I_albedo (AutoDXT, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogTexture: Display: Building textures: gl1_ground_VII_normal (BC5, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogTexture: Display: Building textures: gl1_ground_I_normal (BC5, 4096X4096)
+[2020.05.25-04.02.04:369][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 54
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.05.25-04.02.04:452][646]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.05.25-04.02.04:452][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:463][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:473][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:482][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:492][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:501][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:513][646]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.04:543][646]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-04.02.05:190][646]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-04.02.05:303][646]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.05.25-04.02.05:439][647]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.05.25-04.02.05:597][648]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.05.25-04.02.05:682][649]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.05.25-04.02.05:737][650]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.05.25-04.02.05:796][651]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.05.25-04.02.07:196][709]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 354
+[2020.05.25-04.02.07:747][734]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 344
+[2020.05.25-04.02.08:242][757]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 334
+[2020.05.25-04.02.08:500][768]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 324
+[2020.05.25-04.02.08:535][770]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 314
+[2020.05.25-04.02.08:738][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 304
+[2020.05.25-04.02.09:499][826]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 294
+[2020.05.25-04.02.10:070][859]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 284
+[2020.05.25-04.02.10:730][866]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.05.25-04.02.10:731][866]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.05.25-04.02.10:731][866]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.05.25-04.02.10:731][866]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.05.25-04.02.10:742][866]LogMaterial: Display: Missing cached shader map for material MA_Grass_I_LayerGround, compiling. 
+[2020.05.25-04.02.10:914][866]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.02.10:914][866]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.05.25-04.02.10:914][866]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.05.25-04.02.10:914][866]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.05.25-04.02.10:924][866]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.05.25-04.02.10:924][866]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.02.10:925][866]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.05.25-04.02.10:927][866]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.05.25-04.02.11:328][866]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.25-04.02.12:114][881]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 378
+[2020.05.25-04.02.12:444][883]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 368
+[2020.05.25-04.02.12:793][885]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 358
+[2020.05.25-04.02.12:822][887]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 348
+[2020.05.25-04.02.13:525][893]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 338
+[2020.05.25-04.02.13:770][895]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 328
+[2020.05.25-04.02.14:197][897]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 318
+[2020.05.25-04.02.14:883][903]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 308
+[2020.05.25-04.02.15:962][913]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 298
+[2020.05.25-04.02.16:620][917]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 288
+[2020.05.25-04.02.17:156][921]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 278
+[2020.05.25-04.02.17:185][922]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 268
+[2020.05.25-04.02.17:866][927]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 258
+[2020.05.25-04.02.17:919][927]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 248
+[2020.05.25-04.02.18:845][935]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 238
+[2020.05.25-04.02.18:896][935]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 228
+[2020.05.25-04.02.20:263][943]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 218
+[2020.05.25-04.02.20:474][944]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 208
+[2020.05.25-04.02.21:528][951]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 198
+[2020.05.25-04.02.21:608][951]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 188
+[2020.05.25-04.02.21:976][954]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 178
+[2020.05.25-04.02.21:998][955]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 168
+[2020.05.25-04.02.22:708][959]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 158
+[2020.05.25-04.02.23:630][965]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 148
+[2020.05.25-04.02.23:999][969]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 138
+[2020.05.25-04.02.25:273][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 128
+[2020.05.25-04.02.25:368][979]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 118
+[2020.05.25-04.02.25:758][981]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 108
+[2020.05.25-04.02.26:241][985]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 98
+[2020.05.25-04.02.26:738][989]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 88
+[2020.05.25-04.02.26:751][990]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 78
+[2020.05.25-04.02.27:852][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 68
+[2020.05.25-04.02.28:048][  1]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2020.05.25-04.02.29:550][ 13]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2020.05.25-04.02.29:614][ 15]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 44
+[2020.05.25-04.02.29:729][ 15]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.05.25-04.02.29:800][ 15]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 33
+[2020.05.25-04.02.30:086][ 19]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2020.05.25-04.02.30:974][ 25]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2020.05.25-04.02.31:145][ 25]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2020.05.25-04.02.31:260][ 27]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.05.25-04.02.31:641][ 29]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.05.25-04.02.31:641][ 29]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.05.25-04.02.31:674][ 31]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.05.25-04.02.32:036][ 33]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.05.25-04.02.32:094][ 33]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.05.25-04.02.32:260][ 35]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.05.25-04.02.32:272][ 35]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.25-04.02.32:328][ 35]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.05.25-04.02.32:347][ 35]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.05.25-04.02.32:428][ 35]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.05.25-04.04.15:701][830]Cmd: TRANSACTION UNDO
+[2020.05.25-04.04.15:701][830]LogEditorTransaction: Undo Creating New Landscape
+[2020.05.25-04.04.15:806][830]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.25-04.04.39:337][195]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.05.25-04.04.39:337][195]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.05.25-04.04.39:337][195]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.05.25-04.04.39:337][195]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.05.25-04.04.39:394][195]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.04.39:394][195]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.05.25-04.04.39:394][195]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.05.25-04.04.39:394][195]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.05.25-04.04.39:399][195]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.04.39:399][195]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.05.25-04.04.39:399][195]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.05.25-04.04.39:400][195]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.05.25-04.04.39:448][195]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.25-04.06.53:113][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-04.06.54:228][470]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-04.06.54:988][514]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-04.06.55:389][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-04.07.01:697][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-04.09.14:051][730]Cmd: TRANSACTION UNDO
+[2020.05.25-04.09.14:051][730]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.05.25-04.09.14:152][730]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.09.14:515][739]Cmd: TRANSACTION UNDO
+[2020.05.25-04.09.14:515][739]LogEditorTransaction: Undo Move Actors
+[2020.05.25-04.09.47:685][718]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.05.25-04.11.21:853][886]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.05.25-04.12.38:470][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.25-04.12.38:692][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Forest_elvis" FILE="E:/game_jam20/GameJam20/Tamba_Reen/Saved/Autosaves/Game/Maps/Forest_elvis_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.25-04.12.39:110][376]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.12.39:113][376]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.05.25-04.12.39:117][376]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.05.25-04.12.39:121][376]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.05.25-04.13.02:763][376]LogSavePackage: Moving 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Forest_elvis_Auto153547FB947EC561269CBD5ADC96E0120.tmp' to 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Autosaves/Game/Maps/Forest_elvis_Auto1.umap'
+[2020.05.25-04.13.02:777][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Forest_elvis' took 24.327
+[2020.05.25-04.13.02:777][376]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 24.327
+[2020.05.25-04.14.37:075][767]LogSlate: Window 'Plugins' being destroyed
+[2020.05.25-04.14.37:078][767]LogSlate: Window 'Plugins' being destroyed
+[2020.05.25-04.14.37:078][767]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.05.25-04.16.20:501][ 58]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.05.25-04.19.18:567][622]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.05.25-04.21.37:388][ 84]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.05.25-04.23.34:906][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.05.25-04.23.34:912][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Forest_elvis" FILE="E:/game_jam20/GameJam20/Tamba_Reen/Saved/Autosaves/Game/Maps/Forest_elvis_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.25-04.23.34:991][548]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.05.25-04.23.34:993][548]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.05.25-04.23.34:997][548]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.05.25-04.23.35:000][548]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.05.25-04.23.35:004][548]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.05.25-04.23.35:008][548]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.05.25-04.23.35:013][548]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.05.25-04.23.35:017][548]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.05.25-04.24.01:103][548]LogSavePackage: Moving 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Forest_elvis_Auto2AD2B628E4E407E3FDC065E974930E419.tmp' to 'E:/game_jam20/GameJam20/Tamba_Reen/Saved/Autosaves/Game/Maps/Forest_elvis_Auto2.umap'
+[2020.05.25-04.24.01:116][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Forest_elvis' took 26.220
+[2020.05.25-04.24.01:116][548]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 26.220
+[2020.05.25-04.24.10:271][ 91]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.25-04.25.04:613][126]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.25-04.25.07:263][285]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.25-04.25.11:196][521]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.25-04.28.10:489][250]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.05.25-04.28.35:980][652]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.05.25-04.28.35:998][652]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.25-04.28.36:745][652]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.747 s
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: 
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: Ensure condition failed: FText::FindText(L"LandscapeEditor", Name, Result) [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Editor/LandscapeEditor/Private/LandscapeEditorDetails.cpp] [Line: 352]
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: 
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: Stack: 
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9bf749ec9 UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9bf612cf2 UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9bf60c66d UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9bf5ec5bd UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7b5366 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7eca9d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc79b122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7b927e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7ecd00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7ecd84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9d4e7ee5e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9d39dbac9 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9d3980771 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7090c8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7f2161 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc7d371f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc89a182 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc881510 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc6c3128 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc75295f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc73aea2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff9fc72da72 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa392b7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa392a5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa392ba609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa392a17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa73765c0d USER32.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa73765602 USER32.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa392bbb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff7f85668c4 UE4Editor.exe!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff7f857ba7c UE4Editor.exe!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff7f857bb5a UE4Editor.exe!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff7f858e31d UE4Editor.exe!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ff7f859145a UE4Editor.exe!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa74747bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: [Callstack] 0x00007ffa74b4ce51 ntdll.dll!UnknownFunction []
+[2020.05.25-04.28.36:745][652]LogOutputDevice: Error: 
