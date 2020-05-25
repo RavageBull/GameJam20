@@ -1,0 +1,1084 @@
+﻿Log file open, 05/25/20 11:39:16
+LogInit: Display: Running engine for game: Tamba_Reen
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187834
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogInit: Build: ++UE4+Release-4.25-CL-13144385
+LogInit: Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): May  2 2020 02:12:11
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.25-01.39.21:637][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.25-01.39.21:638][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.25-01.39.21:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:639][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:717][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.25-01.39.21:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.25-01.39.21:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.05.25-01.39.21:719][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.05.25-01.39.21:726][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-01.39.21:726][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.25-01.39.21:741][  0]LogHAL: Display: Platform has ~ 16 GB [17121271808 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.25-01.39.21:741][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.25-01.39.21:741][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-01.39.21:741][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.25-01.39.21:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.05.25-01.39.21:743][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.25-01.39.21:761][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.25-01.39.21:761][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.25-01.39.21:761][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.05.25-01.39.21:761][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Config/Windows/Engine.ini]
+[2020.05.25-01.39.21:781][  0]LogInit: Computer: JAKEFOSTER-PC
+[2020.05.25-01.39.21:782][  0]LogInit: User: JakeFoster
+[2020.05.25-01.39.21:782][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.25-01.39.21:782][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.25-01.39.21:782][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.25-01.39.21:782][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.25-01.39.21:782][  0]LogMemory: Process Physical Memory: 118.12 MB used, 118.12 MB peak
+[2020.05.25-01.39.21:782][  0]LogMemory: Process Virtual Memory: 101.43 MB used, 101.43 MB peak
+[2020.05.25-01.39.21:782][  0]LogMemory: Physical Memory: 5747.48 MB used,  10580.63 MB free, 16328.12 MB total
+[2020.05.25-01.39.21:782][  0]LogMemory: Virtual Memory: 5188.74 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2020.05.25-01.39.21:789][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.25-01.39.23:029][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.05.25-01.39.23:048][  0]LogInit: Using OS detected language (en-US).
+[2020.05.25-01.39.23:048][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.25-01.39.23:186][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.25-01.39.23:848][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.25-01.39.24:738][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.25-01.39.24:738][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.25-01.39.28:451][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.25-01.39.28:451][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.25-01.39.28:451][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.25-01.39.28:533][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.25-01.39.28:533][  0]LogD3D11RHI:       6052/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.25-01.39.28:536][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.25-01.39.28:536][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.25-01.39.28:536][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.25-01.39.28:546][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.25-01.39.28:546][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.25-01.39.28:546][  0]LogWindows: EnumDisplayDevices:
+[2020.05.25-01.39.28:546][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.25-01.39.28:546][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.05.25-01.39.28:547][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.25-01.39.28:547][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.25-01.39.28:547][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.25-01.39.28:547][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.25-01.39.28:547][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.25-01.39.28:547][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.25-01.39.28:547][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.25-01.39.28:609][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.25-01.39.28:626][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.05.25-01.39.28:649][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.25-01.39.28:649][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.05.25-01.39.28:956][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.25-01.39.29:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.25-01.39.30:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.25-01.39.30:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.25-01.39.30:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.25-01.39.30:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.05.25-01.39.30:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.25-01.39.30:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.25-01.39.30:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.25-01.39.30:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.25-01.39.30:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.25-01.39.30:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.25-01.39.30:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.25-01.39.30:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.25-01.39.30:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.25-01.39.30:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.25-01.39.30:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.25-01.39.30:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.25-01.39.30:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.25-01.39.30:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.25-01.39.30:823][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.25-01.39.31:056][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.25-01.39.31:983][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/Shaders/WorkingDirectory/4104/).
+[2020.05.25-01.39.31:983][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jake Foster/AppData/Local/Temp/UnrealShaderWorkingDir/82BE86374D4C724F6D5B5CBA8DE2362F/'.
+[2020.05.25-01.39.31:988][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.25-01.39.31:988][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.25-01.39.31:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.25-01.39.37:375][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.25-01.39.37:707][  0]LogDerivedDataCache: Loaded boot cache 0.33s 110MB C:/Users/Jake Foster/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.05.25-01.39.37:707][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jake Foster/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.05.25-01.39.37:707][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.25-01.39.37:707][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.25-01.39.37:707][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-01.39.37:707][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.25-01.39.37:793][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.25-01.39.37:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-01.39.37:794][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.25-01.39.37:796][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jake Foster/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.25-01.39.37:796][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.25-01.39.37:796][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.25-01.39.38:009][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.25-01.39.38:130][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.25-01.39.39:052][  0]LogAssetRegistry: FAssetRegistry took 0.0055 seconds to start up
+[2020.05.25-01.39.45:436][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-01.39.50:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.25-01.39.50:916][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.25-01.39.50:916][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.25-01.39.50:916][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.25-01.39.50:916][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.25-01.39.52:278][  0]LogNetVersion: Tamba_Reen 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2845370172)
+[2020.05.25-01.40.02:802][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000017A0CE14980), frame # 0
+[2020.05.25-01.40.02:802][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A1082AD40), frame # 0
+[2020.05.25-01.40.02:818][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A0F976600), frame # 0
+[2020.05.25-01.40.03:225][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/2657c409.bin
+[2020.05.25-01.40.03:267][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2020.05.25-01.40.03:274][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/218409f6.bin
+[2020.05.25-01.40.03:283][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/089bc3de.bin
+[2020.05.25-01.40.03:286][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/a02d411d.bin
+[2020.05.25-01.40.03:298][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/09b713d3.bin
+[2020.05.25-01.40.03:305][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/8e9331e2.bin
+[2020.05.25-01.40.03:313][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/52ed2538.bin
+[2020.05.25-01.40.03:317][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 32), retrying in .5s...
+[2020.05.25-01.40.03:817][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.04:318][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.04:818][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.05:319][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.05:819][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.06:320][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.06:821][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.07:322][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.07:822][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin' (Error Code 2), retrying in .5s...
+[2020.05.25-01.40.08:323][  0]LogFileManager: Error: Error moving file 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Intermediate/AssetRegistryCache/c788b007.bin'.
+[2020.05.25-01.40.08:336][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 5.124682 seconds
+[2020.05.25-01.40.08:342][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.05.25-01.40.08:343][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.05.25-01.40.08:343][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.25-01.40.09:782][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.25-01.40.09:850][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.25-01.40.10:940][  0]SourceControl: Source control is disabled
+[2020.05.25-01.40.10:957][  0]SourceControl: Source control is disabled
+[2020.05.25-01.40.11:040][  0]SourceControl: Source control is disabled
+[2020.05.25-01.40.11:071][  0]SourceControl: Source control is disabled
+[2020.05.25-01.40.11:129][  0]SourceControl: Source control is disabled
+[2020.05.25-01.40.14:250][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.25-01.40.14:471][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.25-01.40.14:471][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.25-01.40.14:923][  0]LogOcInput: OculusInput pre-init called
+[2020.05.25-01.40.17:096][  0]LogEngine: Initializing Engine...
+[2020.05.25-01.40.17:149][  0]LogHMD: Oculus plugin initialized. Version: 4.25.0-13144385+++UE4+Release-4.25, OVRPlugin: 1.44.0
+[2020.05.25-01.40.17:229][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.017 s
+[2020.05.25-01.40.18:010][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.25-01.40.18:503][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.25-01.40.18:503][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A145ADC00), frame # 0
+[2020.05.25-01.40.18:509][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A145F5080), frame # 0
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.25-01.40.18:680][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.25-01.40.18:688][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.25-01.40.18:698][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.25-01.40.18:698][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 5: BackRight
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.05.25-01.40.18:873][  0]LogAudioMixer: Display: 7: SideRight
+[2020.05.25-01.40.19:115][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair VOID PRO USB Gaming Headset)
+[2020.05.25-01.40.19:161][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.25-01.40.19:249][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.25-01.40.19:249][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.25-01.40.19:279][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.25-01.40.19:280][  0]LogInit: FAudioDevice initialized.
+[2020.05.25-01.40.19:296][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.25-01.40.19:408][  0]LogDerivedDataCache: Saved boot cache 0.11s 110MB C:/Users/Jake Foster/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.05.25-01.40.19:413][  0]LogInit: Texture streaming: Enabled
+[2020.05.25-01.40.19:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.25-01.40.19:519][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.25-01.40.19:557][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.25-01.40.19:870][  0]LogInit: Transaction tracking system initialized
+[2020.05.25-01.40.20:235][  0]BlueprintLog: New page: Editor Load
+[2020.05.25-01.40.21:760][  0]LocalizationService: Localization service is disabled
+[2020.05.25-01.40.26:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/' took 0.05s
+[2020.05.25-01.40.26:296][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.25-01.40.26:296][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.25-01.40.34:787][  0]SourceControl: Source control is disabled
+[2020.05.25-01.40.34:788][  0]LogUnrealEdMisc: Loading editor; pre map load, took 80.706
+[2020.05.25-01.40.34:815][  0]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.40.34:816][  0]LightingResults: New page: Lighting Build
+[2020.05.25-01.40.34:942][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.40.34:978][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.40.34:987][  0]MapCheck: New page: Map Check
+[2020.05.25-01.40.34:987][  0]LightingResults: New page: Lighting Build
+[2020.05.25-01.40.35:268][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A145ADC00), frame # 0
+[2020.05.25-01.40.35:268][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A145F5080), frame # 0
+[2020.05.25-01.40.35:269][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.05.25-01.40.37:093][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.25-01.40.37:093][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A045A3000), frame # 0
+[2020.05.25-01.40.37:094][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A0479D800), frame # 0
+[2020.05.25-01.40.37:796][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.40.37:915][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.25-01.40.37:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.40.37:930][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15.122ms to complete.
+[2020.05.25-01.40.37:930][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.117
+[2020.05.25-01.40.38:764][  0]LogUnrealEdMisc: Total Editor Startup Time, took 84.682
+[2020.05.25-01.40.39:584][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-01.40.39:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-01.40.39:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-01.40.39:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-01.40.39:714][  0]LogCollectionManager: Loaded 0 collections in 0.001732 seconds
+[2020.05.25-01.40.39:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Collections/' took 0.00s
+[2020.05.25-01.40.39:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/Developers/JakeFoster/Collections/' took 0.00s
+[2020.05.25-01.40.39:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/Collections/' took 0.00s
+[2020.05.25-01.40.39:877][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3426 classes and 820 folders.
+[2020.05.25-01.40.39:975][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-01.40.40:961][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.25-01.40.41:008][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.05.25-01.40.41:601][  0]LogSlate: Took 0.046413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.25-01.40.41:682][  0]LogSlate: Took 0.038177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.25-01.40.41:721][  0]LogSlate: Took 0.017820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.25-01.40.42:325][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.05.25-01.40.43:178][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-01.40.43:178][  0]LogLoad: (Engine Initialization) Total time: 89.10 seconds
+[2020.05.25-01.40.43:178][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.25-01.40.43:202][  0]LogOcInput: OculusInput is initialized
+[2020.05.25-01.40.43:451][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.25-01.40.43:657][  0]LogSlate: Took 0.021456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.25-01.40.43:741][  1]LogAssetRegistry: Asset discovery search completed in 64.6907 seconds
+[2020.05.25-01.40.43:746][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.05.25-01.50.11:724][232]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.25-01.50.11:751][232]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.50.11:860][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.25-01.50.11:863][232]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.50.11:863][232]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.11:863][232]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.05.25-01.50.11:864][232]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.50.11:864][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.50.11:864][232]MapCheck: New page: Map Check
+[2020.05.25-01.50.11:864][232]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.11:916][232]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A045A3000), frame # 63232
+[2020.05.25-01.50.11:916][232]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A0479D800), frame # 63232
+[2020.05.25-01.50.11:917][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.25-01.50.11:959][232]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.50.11:959][232]LogAIModule: Creating AISystem for world MainLevel
+[2020.05.25-01.50.11:959][232]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A0445F600), frame # 63232
+[2020.05.25-01.50.11:959][232]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A044F5300), frame # 63232
+[2020.05.25-01.50.11:972][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.05.25-01.50.12:000][232]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.50.12:000][232]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.05.25-01.50.12:000][232]LogFileHelpers: Loading map 'MainLevel' took 0.138
+[2020.05.25-01.50.23:376][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-01.50.24:964][587]Cmd: DELETE
+[2020.05.25-01.50.24:964][587]Cmd: ACTOR DELETE
+[2020.05.25-01.50.25:107][587]LogEditorActor: Deleted Actor: PointLight
+[2020.05.25-01.50.25:118][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.25-01.50.25:120][587]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2020.05.25-01.50.37:518][993]Cmd: DELETE
+[2020.05.25-01.50.37:518][993]Cmd: ACTOR DELETE
+[2020.05.25-01.50.37:519][993]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.05.25-01.50.37:529][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.25-01.50.37:531][993]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2020.05.25-01.50.47:065][ 53]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.50.47:075][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.05.25-01.50.49:474][ 53]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-01.50.49:522][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.05.25-01.50.49:556][ 53]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevel46A644994F5DB5EDCF1809B49A5A5FDE.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap'
+[2020.05.25-01.50.49:619][ 53]LogFileHelpers: Saving map 'MainLevel' took 0.131
+[2020.05.25-01.50.49:619][ 53]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.50.49:619][ 53]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.49:619][ 53]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.05.25-01.50.49:620][ 53]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.50.49:620][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.50.49:620][ 53]MapCheck: New page: Map Check
+[2020.05.25-01.50.49:620][ 53]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.49:629][ 53]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A044F5300), frame # 67053
+[2020.05.25-01.50.49:629][ 53]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A0445F600), frame # 67053
+[2020.05.25-01.50.49:630][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.25-01.50.49:634][ 53]LogAIModule: Creating AISystem for world MainLevel
+[2020.05.25-01.50.49:634][ 53]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A34B9A400), frame # 67053
+[2020.05.25-01.50.49:634][ 53]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A047FFB00), frame # 67053
+[2020.05.25-01.50.49:635][ 53]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.50.49:645][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.25-01.50.49:673][ 53]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.50.49:673][ 53]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2020.05.25-01.50.49:673][ 53]LogFileHelpers: Loading map 'MainLevel' took 0.054
+[2020.05.25-01.50.49:722][ 53]AssetCheck: New page: Asset Save: MainLevel
+[2020.05.25-01.50.49:722][ 53]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.50.51:017][196]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-01.50.51:027][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.05.25-01.50.51:029][196]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.50.51:029][196]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.51:029][196]LoadErrors: New page: Loading map: Forest.umap
+[2020.05.25-01.50.51:030][196]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.50.51:030][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.50.51:030][196]MapCheck: New page: Map Check
+[2020.05.25-01.50.51:030][196]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.51:039][196]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A047FFB00), frame # 67196
+[2020.05.25-01.50.51:039][196]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A34B9A400), frame # 67196
+[2020.05.25-01.50.51:040][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.25-01.50.51:042][196]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.50.51:043][196]LogAIModule: Creating AISystem for world Forest
+[2020.05.25-01.50.51:043][196]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A044EAC00), frame # 67196
+[2020.05.25-01.50.51:043][196]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A047FD440), frame # 67196
+[2020.05.25-01.50.51:054][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.05.25-01.50.51:080][196]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.50.51:080][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.05.25-01.50.51:080][196]LogFileHelpers: Loading map 'Forest' took 0.051
+[2020.05.25-01.50.54:818][613]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.25-01.50.54:848][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.25-01.50.54:850][613]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.50.54:851][613]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.54:851][613]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.05.25-01.50.54:851][613]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.50.54:851][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.50.54:851][613]MapCheck: New page: Map Check
+[2020.05.25-01.50.54:851][613]LightingResults: New page: Lighting Build
+[2020.05.25-01.50.54:860][613]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A047FD440), frame # 67613
+[2020.05.25-01.50.54:861][613]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A044EAC00), frame # 67613
+[2020.05.25-01.50.54:861][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-01.50.54:867][613]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.50.54:867][613]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.25-01.50.54:867][613]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A046B6400), frame # 67613
+[2020.05.25-01.50.54:867][613]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A0479DA80), frame # 67613
+[2020.05.25-01.50.54:881][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.25-01.50.54:915][613]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.50.54:916][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2020.05.25-01.50.54:916][613]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.065
+[2020.05.25-01.50.57:619][916]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.05.25-01.50.57:931][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-01.51.00:693][241]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.05.25-01.51.02:161][388]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.05.25-01.51.14:015][675]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.51.14:025][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.05.25-01.51.14:027][675]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.51.14:027][675]LightingResults: New page: Lighting Build
+[2020.05.25-01.51.14:027][675]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.05.25-01.51.14:029][675]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.51.14:029][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.51.14:029][675]MapCheck: New page: Map Check
+[2020.05.25-01.51.14:029][675]LightingResults: New page: Lighting Build
+[2020.05.25-01.51.14:040][675]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A0479DA80), frame # 69675
+[2020.05.25-01.51.14:040][675]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A046B6400), frame # 69675
+[2020.05.25-01.51.14:041][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.25-01.51.14:043][675]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.51.14:043][675]LogAIModule: Creating AISystem for world MainLevel
+[2020.05.25-01.51.14:043][675]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A34B9AE00), frame # 69675
+[2020.05.25-01.51.14:043][675]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A044F4B80), frame # 69675
+[2020.05.25-01.51.14:054][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.05.25-01.51.14:079][675]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.51.14:080][675]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2020.05.25-01.51.14:080][675]LogFileHelpers: Loading map 'MainLevel' took 0.053
+[2020.05.25-01.51.15:174][800]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.05.25-01.51.16:530][947]Cmd: DELETE
+[2020.05.25-01.51.16:530][947]Cmd: ACTOR DELETE
+[2020.05.25-01.51.16:531][947]LogEditorActor: Deleted Actor: SkyLight
+[2020.05.25-01.51.16:541][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.05.25-01.51.16:542][947]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.05.25-01.51.23:151][681]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.05.25-01.51.29:783][414]Cmd: DELETE
+[2020.05.25-01.51.29:783][414]Cmd: ACTOR DELETE
+[2020.05.25-01.51.29:784][414]LogEditorActor: Deleted Actor: Brush
+[2020.05.25-01.51.29:795][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.25-01.51.29:799][414]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.05.25-01.51.42:772][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.05.25-01.52.04:818][382]LogSlate: Window 'Failed Renames' being destroyed
+[2020.05.25-01.52.07:826][736]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.52.07:826][736]LogObjectTools: Currently 2 active worlds: /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel, /Engine/Transient.World_0
+[2020.05.25-01.52.09:462][736]LogSlate: Window 'Unable to delete level' being destroyed
+[2020.05.25-01.52.09:466][736]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2020.05.25-01.52.13:663][225]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.25-01.52.13:673][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.25-01.52.14:632][225]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-01.52.14:661][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-01.52.14:731][225]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevel7F3187794F056FDAF122E19D2479397F.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/MainLevel.umap'
+[2020.05.25-01.52.14:738][225]LogFileHelpers: Saving map 'MainLevel' took 0.098
+[2020.05.25-01.52.14:752][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.25-01.52.14:765][225]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevelD6519B25475DA1F3503446BC485AB69F.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap'
+[2020.05.25-01.52.14:795][225]LogFileHelpers: Saving map 'MainLevel' took 0.057
+[2020.05.25-01.52.14:795][225]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.52.14:795][225]LightingResults: New page: Lighting Build
+[2020.05.25-01.52.14:795][225]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.05.25-01.52.14:795][225]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.52.14:795][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.52.14:795][225]MapCheck: New page: Map Check
+[2020.05.25-01.52.14:795][225]LightingResults: New page: Lighting Build
+[2020.05.25-01.52.14:805][225]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A044F4B80), frame # 76225
+[2020.05.25-01.52.14:805][225]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A34B9AE00), frame # 76225
+[2020.05.25-01.52.14:806][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.25-01.52.14:819][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.05.25-01.52.14:833][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-01.52.14:861][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.52.14:861][225]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.25-01.52.14:861][225]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A2BF3EA00), frame # 76225
+[2020.05.25-01.52.14:861][225]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A044DFD80), frame # 76225
+[2020.05.25-01.52.14:876][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.25-01.52.14:905][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.52.14:905][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2020.05.25-01.52.14:905][225]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.110
+[2020.05.25-01.52.14:959][225]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-01.52.14:959][225]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainLevel.MainLevel
+[2020.05.25-01.52.14:980][225]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.52.19:034][691]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.52.19:034][691]LogObjectTools: Currently 2 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0
+[2020.05.25-01.52.19:044][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.25-01.52.20:173][691]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.25-01.52.20:192][691]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.52.20:193][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.52.20:271][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.25-01.52.20:290][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.25-01.52.20:303][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.25-01.52.21:840][871]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-01.52.21:840][871]LogObjectTools: Currently 2 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0
+[2020.05.25-01.52.21:850][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.05.25-01.52.22:963][871]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.25-01.52.22:977][871]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.52.22:977][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.52.23:037][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.25-01.52.23:053][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.05.25-01.52.23:064][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.05.25-01.52.26:981][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.25-01.52.26:982][317]LogMetaData: Removing '/Game/ThirdPersonBP/Scenes/MainLevel.MainLevel_C' ref from Metadata '/Game/ThirdPersonBP/Maps/MainLevel.PackageMetaData'
+[2020.05.25-01.52.26:982][317]LogMetaData: Removing '/Game/ThirdPersonBP/Scenes/MainLevel.SKEL_MainLevel_C' ref from Metadata '/Game/ThirdPersonBP/Maps/MainLevel.PackageMetaData'
+[2020.05.25-01.52.27:030][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.25-01.52.27:060][317]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevel78DC47C645125735B66D178656BF4D07.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap'
+[2020.05.25-01.52.27:067][317]LogFileHelpers: Saving map 'MainLevel' took 0.053
+[2020.05.25-01.52.27:170][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-01.52.27:186][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.25-01.52.27:196][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.05.25-01.52.27:247][317]AssetCheck: New page: Asset Save: MainLevel
+[2020.05.25-01.52.27:247][317]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.52.33:839][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.05.25-01.52.42:280][ 48]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-01.52.42:290][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.25-01.52.43:419][ 48]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-01.52.43:456][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.25-01.52.43:490][ 48]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Forest89BDC21E4E08A985CE3781B67FEAB8A2.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap'
+[2020.05.25-01.52.43:497][ 48]LogFileHelpers: Saving map 'Forest' took 0.058
+[2020.05.25-01.52.43:497][ 48]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-01.52.43:497][ 48]LightingResults: New page: Lighting Build
+[2020.05.25-01.52.43:497][ 48]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.05.25-01.52.43:499][ 48]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-01.52.43:499][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-01.52.43:499][ 48]MapCheck: New page: Map Check
+[2020.05.25-01.52.43:499][ 48]LightingResults: New page: Lighting Build
+[2020.05.25-01.52.43:510][ 48]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A044DFD80), frame # 79048
+[2020.05.25-01.52.43:510][ 48]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A2BF3EA00), frame # 79048
+[2020.05.25-01.52.43:511][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.05.25-01.52.43:525][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.05.25-01.52.43:539][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-01.52.43:545][ 48]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-01.52.43:545][ 48]LogAIModule: Creating AISystem for world MainLevel
+[2020.05.25-01.52.43:545][ 48]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A3A779C00), frame # 79048
+[2020.05.25-01.52.43:545][ 48]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A0446EFC0), frame # 79048
+[2020.05.25-01.52.43:557][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.25-01.52.43:584][ 48]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-01.52.43:585][ 48]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2020.05.25-01.52.43:585][ 48]LogFileHelpers: Loading map 'MainLevel' took 0.087
+[2020.05.25-01.52.43:626][ 48]AssetCheck: New page: Asset Save: Forest
+[2020.05.25-01.52.43:626][ 48]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-01.52.57:747][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-01.57.46:012][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-01.58.54:221][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.05.25-01.58.57:535][300]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-01.59.37:118][297]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.25-02.01.11:737][766]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:50786).
+[2020.05.25-02.01.11:799][767]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:50788).
+[2020.05.25-02.01.11:876][768]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:50790).
+[2020.05.25-02.01.11:941][769]LogRenderer: Reallocating scene render targets to support 1208x640 Format 10 NumSamples 1 (Frame:50792).
+[2020.05.25-02.01.11:994][770]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:50794).
+[2020.05.25-02.01.12:060][771]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:50796).
+[2020.05.25-02.01.12:114][772]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:50798).
+[2020.05.25-02.01.12:178][773]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:50800).
+[2020.05.25-02.01.17:338][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.05.25-02.01.17:382][271]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevel57F7115441DAC8668F5528B84488CEE1.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap'
+[2020.05.25-02.01.17:427][271]AssetCheck: New page: Asset Save: MainLevel
+[2020.05.25-02.01.17:427][271]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-02.01.18:284][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.05.25-02.01.18:312][367]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevel0E88EFBD43E1A60F5E6EF5A219D25200.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap'
+[2020.05.25-02.01.18:347][367]AssetCheck: New page: Asset Save: MainLevel
+[2020.05.25-02.01.18:347][367]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-02.01.21:779][734]MapCheck: New page: Map Check
+[2020.05.25-02.01.21:789][734]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.25-02.01.21:789][734]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.25-02.01.22:023][734]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.25-02.01.22:080][734]LightingResults: New page: Lighting Build - May 25, 2020, 10:01:22 PM
+[2020.05.25-02.01.22:295][734]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.25-02.01.22:693][734]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.25-02.01.22:706][734]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.25-02.01.23:716][734]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.25-02.01.23:716][734]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4104
+[2020.05.25-02.01.26:570][734]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.25-02.01.26:571][734]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.25-02.01.26:571][734]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.25-02.01.26:571][734]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.25-02.01.26:571][734]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.25-02.01.26:890][734]LogEditorBuildUtils: Build time 0:05
+[2020.05.25-02.01.26:900][734]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.05.25-02.01.26:963][734]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.05.25-02.01.27:025][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.25-02.01.27:025][734]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.25-02.01.27:045][735]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.05.25-02.01.27:048][735]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.05.25-02.01.27:052][735]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.05.25-02.01.27:056][735]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.05.25-02.01.27:098][736]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.05.25-02.01.27:135][736]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2020.05.25-02.01.27:541][736]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.05.25-02.01.27:546][736]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.05.25-02.01.31:679][737]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.05.25-02.01.31:679][737]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.05.25-02.01.31:679][737]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.25-02.01.31:679][737]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.25-02.01.32:012][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.25-02.01.41:724][400]Job is a success!
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.25-02.01.41:901][401]LogVolumetricLightmapImport:          MainLevel 			 44 bricks 	 100.0% (Persistent Level)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.05.25-02.01.42:946][401]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.05.25-02.01.43:146][401]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2020.05.25-02.01.43:147][401]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.05.25-02.01.43:246][401]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.05.25-02.01.43:246][401]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 14 meshes in 4 LightmapResourceClusters (3.5 Meshes per cluster).
+[2020.05.25-02.01.43:253][401]Lightmass on JAKEFOSTER-PC: 9.45 sec total, 240 ms importing, 26 ms setup, 1.45 sec photons, 7.68 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 30.6 sec total, 12.4 sec processing.
+[2020.05.25-02.01.43:264][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.25-02.01.43:313][401]LogStaticLightingSystem: Illumination: 21.1 sec (978 ms encoding lightmaps, 256 ms encoding shadowmaps)
+[2020.05.25-02.01.43:329][401]LogStaticLightingSystem: Lightmap texture memory:  3.4 MB (3.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.05.25-02.01.43:329][401]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.05.25-02.01.43:584][401]DumpUnbuiltLightIteractions
+[2020.05.25-02.01.43:584][401]Lights with unbuilt interactions: 0
+[2020.05.25-02.01.43:584][401]
+[2020.05.25-02.01.43:584][401]Primitives with unbuilt interactions: 0
+[2020.05.25-02.01.43:687][402]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.25-02.01.43:687][402]MapCheck: New page: MainLevel - May 25, 2020, 10:01:43 PM
+[2020.05.25-02.01.43:719][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.256ms to complete.
+[2020.05.25-02.01.46:406][687]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-02.01.46:416][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.25-02.01.47:467][687]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-02.01.47:497][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.05.25-02.01.47:529][687]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevelF9F53F6D43C608BCA5F657B8F1416453.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel.umap'
+[2020.05.25-02.01.47:560][687]LogFileHelpers: Saving map 'MainLevel' took 0.076
+[2020.05.25-02.01.47:670][687]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/MainLevel_BuiltDataB80D77134B14A8D0FE24C38E65A72E74.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/MainLevel_BuiltData.uasset'
+[2020.05.25-02.01.47:685][687]Cmd: MAP LOAD FILE="C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-02.01.47:685][687]LightingResults: New page: Lighting Build
+[2020.05.25-02.01.47:686][687]LoadErrors: New page: Loading map: Forest.umap
+[2020.05.25-02.01.47:687][687]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-02.01.47:688][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-02.01.47:688][687]MapCheck: New page: Map Check
+[2020.05.25-02.01.47:688][687]LightingResults: New page: Lighting Build
+[2020.05.25-02.01.47:702][687]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A0446EFC0), frame # 131687
+[2020.05.25-02.01.47:702][687]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A3A779C00), frame # 131687
+[2020.05.25-02.01.47:707][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.25-02.01.47:715][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-02.01.47:715][687]LogAIModule: Creating AISystem for world Forest
+[2020.05.25-02.01.47:715][687]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A3A723C00), frame # 131687
+[2020.05.25-02.01.47:715][687]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A0D07DBC0), frame # 131687
+[2020.05.25-02.01.47:727][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-02.01.47:752][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-02.01.47:752][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.05.25-02.01.47:752][687]LogFileHelpers: Loading map 'Forest' took 0.068
+[2020.05.25-02.01.47:788][687]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-02.01.47:788][687]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/MainLevel.MainLevel
+[2020.05.25-02.01.47:811][687]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Scenes/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.05.25-02.01.51:902][120]MapCheck: New page: Map Check
+[2020.05.25-02.01.51:917][120]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.25-02.01.51:918][120]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.25-02.01.51:922][120]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=false
+[2020.05.25-02.01.51:930][120]LightingResults: New page: Lighting Build - May 25, 2020, 10:01:51 PM
+[2020.05.25-02.01.51:937][120]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.25-02.01.51:939][120]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.25-02.01.51:940][120]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.25-02.01.51:940][120]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.25-02.01.51:940][120]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4104
+[2020.05.25-02.01.56:558][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.25-02.01.56:558][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.25-02.01.56:558][120]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.25-02.01.56:558][120]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.25-02.01.56:558][120]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.25-02.01.56:670][120]LogEditorBuildUtils: Build time 0:04
+[2020.05.25-02.01.56:763][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.25-02.02.04:513][739]Job is a success!
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.25-02.02.04:666][740]LogVolumetricLightmapImport:          Forest 			 44 bricks 	 100.0% (Persistent Level)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.05.25-02.02.05:771][740]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.05.25-02.02.05:972][740]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.05.25-02.02.05:972][740]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2020.05.25-02.02.06:045][740]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.05.25-02.02.06:046][740]LogStaticLightingSystem: Forest_BuiltData storing lightmap data for 14 meshes in 4 LightmapResourceClusters (3.5 Meshes per cluster).
+[2020.05.25-02.02.06:072][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.05.25-02.02.06:082][740]Lightmass on JAKEFOSTER-PC: 8.69 sec total, 198 ms importing, 26 ms setup, 1.32 sec photons, 7.09 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 28.3 sec total, 10.5 sec processing.
+[2020.05.25-02.02.06:092][740]LogStaticLightingSystem: Illumination: 14.1 sec (1.08 sec encoding lightmaps, 240 ms encoding shadowmaps)
+[2020.05.25-02.02.06:092][740]LogStaticLightingSystem: Lightmap texture memory:  3.4 MB (3.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.05.25-02.02.06:092][740]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.05.25-02.02.06:568][740]DumpUnbuiltLightIteractions
+[2020.05.25-02.02.06:568][740]Lights with unbuilt interactions: 0
+[2020.05.25-02.02.06:568][740]
+[2020.05.25-02.02.06:568][740]Primitives with unbuilt interactions: 0
+[2020.05.25-02.02.06:681][741]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.25-02.02.06:681][741]MapCheck: New page: Forest - May 25, 2020, 10:02:06 PM
+[2020.05.25-02.02.06:681][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.465ms to complete.
+[2020.05.25-02.02.14:204][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.25-02.02.14:250][162]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Forest872F9D54499E3C7168418B99CE84C310.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest.umap'
+[2020.05.25-02.02.14:403][162]LogSavePackage: Moving 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Saved/Forest_BuiltData11FB7B614E02F841E62A789C2C0A9C37.tmp' to 'C:/Users/Jake Foster/Desktop/University Stuff/GameJam20/Tamba_Reen/Content/ThirdPersonBP/Scenes/Forest_BuiltData.uasset'
+[2020.05.25-02.02.14:415][162]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-02.02.14:415][162]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Scenes/Forest.Forest
+[2020.05.25-02.02.14:415][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Scenes/Forest_BuiltData.Forest_BuiltData
